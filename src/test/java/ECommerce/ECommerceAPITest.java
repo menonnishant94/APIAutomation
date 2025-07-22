@@ -35,6 +35,7 @@ public class ECommerceAPITest {
 		System.out.println(token);
 		System.out.println(userID);
 		System.out.println(message);
+		System.out.println(message);
 		
 		//Add Product
 		RequestSpecification addProduct = new RequestSpecBuilder().setBaseUri("https://rahulshettyacademy.com")
